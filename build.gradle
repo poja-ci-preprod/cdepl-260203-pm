@@ -25,7 +25,7 @@ repositories {
 }
 
 java {
-    group = 'api.poja.app'
+    group = 'com.example.demo'
     sourceCompatibility = '21'
     targetCompatibility = '21'
 }
